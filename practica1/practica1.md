@@ -64,6 +64,8 @@ ___
 El processador té un temps lliure de 500ms, que és la finestra de temps que el programa s'atura entre canvi d'estats del pin (el delay). És a dir, el temps que passa el led encés, o apagat.
 
 El temps d'execució d'un cicle loop és de 1 segons.
-
+___
+### Video de demostració
+https://drive.google.com/file/d/1pwWiqH_diFcNL6UMR1ILDX2yqibhDTe9/view?usp=sharing
 
 
