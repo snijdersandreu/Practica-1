@@ -53,7 +53,7 @@ Seguidament s'assigna un valor baix al pin. El que farà que el led deixi de rom
 ___
 ## Sortida pel terminal
 
-![captura_terminal](captura_terminal.PNG)
+![captura_terminal](captura_terminal.png)
 
 ___
 ## Diagrama de temps
